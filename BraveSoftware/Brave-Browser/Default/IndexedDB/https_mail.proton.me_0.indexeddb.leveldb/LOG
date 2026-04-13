@@ -1,0 +1,13 @@
+2026/04/13-14:20:17.150 37bd Reusing MANIFEST /home/alienware/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/13-14:20:17.151 37bd Recovering log #7
+2026/04/13-14:20:17.151 37bd Reusing old log /home/alienware/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/000007.log 
+2026/04/13-14:20:17.748 37b9 Level-0 table #11: started
+2026/04/13-14:20:17.749 37b9 Level-0 table #11: 1103 bytes OK
+2026/04/13-14:20:17.749 37b9 Delete type=0 #7
+2026/04/13-14:20:17.750 37b9 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 162 : 1
+2026/04/13-14:20:17.750 37b9 Compacting 1@0 + 1@1 files
+2026/04/13-14:20:17.750 37b9 Generated table #12@0: 54 keys, 1147 bytes
+2026/04/13-14:20:17.750 37b9 Compacted 1@0 + 1@1 files => 1147 bytes
+2026/04/13-14:20:17.751 37b9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/13-14:20:17.752 37b9 Delete type=2 #11
+2026/04/13-14:20:17.752 37b9 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 162 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
