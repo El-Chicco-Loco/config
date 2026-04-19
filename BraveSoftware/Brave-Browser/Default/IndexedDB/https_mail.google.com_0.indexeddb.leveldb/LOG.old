@@ -1,2 +1,3 @@
-2026/04/13-11:58:16.153 dbbb Creating DB /home/alienware/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
-2026/04/13-11:58:16.158 dbbb Reusing MANIFEST /home/alienware/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/13-14:14:10.072 acd Reusing MANIFEST /home/alienware/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/13-14:14:10.072 acd Recovering log #3
+2026/04/13-14:14:10.072 acd Reusing old log /home/alienware/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 

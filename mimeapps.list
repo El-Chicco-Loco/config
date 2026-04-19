@@ -5,9 +5,12 @@ text/plain=code.desktop
 text/css=code.desktop
 application/xml=code.desktop
 application/x-zerosize=code.desktop
+application/x-shellscript=code.desktop
 
 [Added Associations]
 text/plain=code.desktop;
 text/css=code.desktop;
 application/xml=code.desktop;
 application/x-zerosize=code.desktop;
+text/x-csrc=code.desktop;
+application/x-shellscript=code.desktop;

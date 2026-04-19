@@ -7,26 +7,29 @@
         "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1776082894197"
+                "backupFolder": "1776269334252"
             }
         ]
     },
-    "windowControlHeight": 35,
+    "windowControlHeight": 42,
     "profileAssociations": {
-        "workspaces": {},
+        "workspaces": {
+            "file:///home/alienware/.config": "__default__profile__"
+        },
         "emptyWindows": {
-            "1776082894197": "__default__profile__"
+            "1776269334252": "__default__profile__"
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/alienware/.config/Code/Backups/1776082894197",
+            "backupPath": "/home/alienware/.config/Code/Backups/1776269334252",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
-                "width": 1276,
-                "height": 1555
+                "width": 2560,
+                "height": 1600,
+                "zoomLevel": 1
             }
         },
         "openedWindows": []
@@ -59,6 +62,18 @@
             "auxiliaryBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "89679cef1c781380157f6237b6af351a": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
         }
     }
 }

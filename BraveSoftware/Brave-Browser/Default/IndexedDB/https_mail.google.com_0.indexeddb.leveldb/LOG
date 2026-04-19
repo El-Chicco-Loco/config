@@ -1,3 +1,6 @@
-2026/04/13-14:14:10.072 acd Reusing MANIFEST /home/alienware/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/04/13-14:14:10.072 acd Recovering log #3
-2026/04/13-14:14:10.072 acd Reusing old log /home/alienware/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2026/04/16-13:18:59.851 30ee Reusing MANIFEST /home/alienware/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/16-13:18:59.852 30ee Recovering log #3
+2026/04/16-13:18:59.864 30ee Reusing old log /home/alienware/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2026/04/16-13:19:05.543 310a Level-0 table #5: started
+2026/04/16-13:19:05.608 310a Level-0 table #5: 3195288 bytes OK
+2026/04/16-13:19:05.613 310a Delete type=0 #3

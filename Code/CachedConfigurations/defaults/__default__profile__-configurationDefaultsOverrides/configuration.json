@@ -1,1 +1,1 @@
-{"http.systemCertificatesNode":true,"inlineChat.enableV2":true}
+{"http.systemCertificatesNode":true,"inlineChat.enableV2":true,"chat.experimental.useSkillAdherencePrompt":true}

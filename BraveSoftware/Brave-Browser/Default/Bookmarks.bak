@@ -1,5 +1,5 @@
 {
-   "checksum": "627a9c569d7f201b40203191105eceeb",
+   "checksum": "0012b2fdf83a95c9871f93595bb48197",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -24,10 +24,21 @@
             "name": "Proton Mail",
             "type": "url",
             "url": "https://mail.proton.me/u/0/inbox"
+         }, {
+            "date_added": "13420557693953591",
+            "date_last_used": "0",
+            "guid": "81991084-fcbd-4af4-a983-168d00d865e9",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/El-Chicco-Loco"
          } ],
          "date_added": "13420546796169926",
          "date_last_used": "0",
-         "date_modified": "13420547946309380",
+         "date_modified": "13420557693953591",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks",

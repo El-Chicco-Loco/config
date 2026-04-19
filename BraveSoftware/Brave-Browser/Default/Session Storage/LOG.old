@@ -1,3 +1,6 @@
-2026/04/13-14:14:10.000 5 Reusing MANIFEST /home/alienware/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2026/04/13-14:14:10.001 5 Recovering log #4
-2026/04/13-14:14:10.001 5 Reusing old log /home/alienware/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000004.log 
+2026/04/15-22:02:47.126 5 Reusing MANIFEST /home/alienware/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2026/04/15-22:02:47.127 5 Recovering log #4
+2026/04/15-22:02:47.128 5 Reusing old log /home/alienware/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000004.log 
+2026/04/15-22:46:35.370 5 Level-0 table #8: started
+2026/04/15-22:46:35.372 5 Level-0 table #8: 20558 bytes OK
+2026/04/15-22:46:35.374 5 Delete type=0 #4
