@@ -14,3 +14,4 @@ application/xml=code.desktop;
 application/x-zerosize=code.desktop;
 text/x-csrc=code.desktop;
 application/x-shellscript=code.desktop;
+application/schema+json=code.desktop;

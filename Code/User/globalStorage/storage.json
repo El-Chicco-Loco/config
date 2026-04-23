@@ -7,7 +7,7 @@
         "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1776269334252"
+                "backupFolder": "1776804289941"
             }
         ]
     },
@@ -17,12 +17,12 @@
             "file:///home/alienware/.config": "__default__profile__"
         },
         "emptyWindows": {
-            "1776269334252": "__default__profile__"
+            "1776804289941": "__default__profile__"
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/alienware/.config/Code/Backups/1776269334252",
+            "backupPath": "/home/alienware/.config/Code/Backups/1776804289941",
             "uiState": {
                 "mode": 0,
                 "x": 0,
@@ -54,13 +54,13 @@
             "statusBarNoFolderBackground": "#191a1b"
         },
         "layoutInfo": {
-            "sideBarSide": "left",
+            "sideBarSide": "right",
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
             "sideBarWidth": 0,
             "auxiliaryBarWidth": 0,
-            "statusBarHeight": 22,
+            "statusBarHeight": 0,
             "windowBorder": false
         }
     },

@@ -1,13 +1,13 @@
-2026/04/13-14:14:10.323 aa9 Reusing MANIFEST /home/alienware/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/MANIFEST-000001
-2026/04/13-14:14:10.323 aa9 Recovering log #67
-2026/04/13-14:14:10.324 aa9 Reusing old log /home/alienware/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/000067.log 
-2026/04/13-14:14:10.570 aaa Level-0 table #72: started
-2026/04/13-14:14:10.571 aaa Level-0 table #72: 155576 bytes OK
-2026/04/13-14:14:10.572 aaa Delete type=0 #67
-2026/04/13-14:14:10.572 aaa Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 29384 : 1
-2026/04/13-14:14:10.572 aaa Compacting 1@0 + 1@1 files
-2026/04/13-14:14:10.577 aaa Generated table #73@0: 7826 keys, 495091 bytes
-2026/04/13-14:14:10.577 aaa Compacted 1@0 + 1@1 files => 495091 bytes
-2026/04/13-14:14:10.578 aaa compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/04/13-14:14:10.578 aaa Delete type=2 #72
-2026/04/13-14:14:10.578 aaa Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 29384 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/22-22:19:27.802 18346 Reusing MANIFEST /home/alienware/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/22-22:19:27.802 18346 Recovering log #99
+2026/04/22-22:19:27.804 18346 Reusing old log /home/alienware/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/000099.log 
+2026/04/22-22:19:29.813 18344 Level-0 table #103: started
+2026/04/22-22:19:29.815 18344 Level-0 table #103: 247535 bytes OK
+2026/04/22-22:19:29.817 18344 Delete type=0 #99
+2026/04/22-22:19:29.817 18339 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x01\x02\x01b\x00[\x00"\x00p\x00p\x00l\x00x\x00-\x00q\x00u\x00e\x00r\x00y\x00-\x00c\x00a\x00c\x00h\x00e\x00-\x003\x00b\x003\x00f\x00c\x002\x003\x00"\x00,\x00"\x00a\x00l\x00l\x00_\x00r\x00e\x00s\x00u\x00l\x00t\x00s\x00"\x00,\x00"\x00i\x00s\x00-\x00w\x00h\x00i\x00t\x00e\x00s\x00u\x00r\x00-\x00t\x00h\x00e\x00m\x00e\x00-\x00c\x00o\x00m\x00p\x00a\x00t\x00i\x00b\x00l\x00e\x00-\x00w\x00-\x00l\x00v\x00n\x00W\x00t\x009\x00R\x00b\x00R\x00D\x00a\x00C\x00I\x00G\x00s\x00A\x00j\x00Q\x00t\x00w\x00G\x00g\x00"\x00]' @ 49051 : 1
+2026/04/22-22:19:29.817 18339 Compacting 2@0 + 1@1 files
+2026/04/22-22:19:29.839 18339 Generated table #104@0: 10799 keys, 628997 bytes
+2026/04/22-22:19:29.839 18339 Compacted 2@0 + 1@1 files => 628997 bytes
+2026/04/22-22:19:29.840 18339 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/22-22:19:29.841 18339 Delete type=2 #103
+2026/04/22-22:19:29.841 18339 Manual compaction at level-0 from '\x00\x02\x01\x02\x01b\x00[\x00"\x00p\x00p\x00l\x00x\x00-\x00q\x00u\x00e\x00r\x00y\x00-\x00c\x00a\x00c\x00h\x00e\x00-\x003\x00b\x003\x00f\x00c\x002\x003\x00"\x00,\x00"\x00a\x00l\x00l\x00_\x00r\x00e\x00s\x00u\x00l\x00t\x00s\x00"\x00,\x00"\x00i\x00s\x00-\x00w\x00h\x00i\x00t\x00e\x00s\x00u\x00r\x00-\x00t\x00h\x00e\x00m\x00e\x00-\x00c\x00o\x00m\x00p\x00a\x00t\x00i\x00b\x00l\x00e\x00-\x00w\x00-\x00l\x00v\x00n\x00W\x00t\x009\x00R\x00b\x00R\x00D\x00a\x00C\x00I\x00G\x00s\x00A\x00j\x00Q\x00t\x00w\x00G\x00g\x00"\x00]' @ 49051 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)

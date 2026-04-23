@@ -1,0 +1,1 @@
+2026-04-23 16:16:48.328 [error] Failed to set sticky bit on /tmp/alienware-code-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/alienware-code-zsh'

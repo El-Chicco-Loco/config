@@ -1,0 +1,35 @@
+2026-04-23 16:11:41.966 [info] Started local extension host with pid 19095.
+2026-04-23 16:11:42.306 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-04-23 16:11:44.593 [info] [perf] Render performance baseline is 10ms
+2026-04-23 16:38:16.421 [error] Error: Unable to resolve resource resource:/org/gnome/theme/gtk-dark.css
+    at _Ze.doCreateReferencedObject (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1771:28301)
+    at _Ze.doCreateReferencedObject (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1771:28264)
+    at async KSe.acquire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:403:3866)
+    at async DZe.createModelReference (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1771:30166)
+    at async ZC.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:973:19092)
+    at async H3.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1184:95904)
+    at async sRe.doSetInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1189:33674)
+    at async sRe.doOpenEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1189:31460)
+    at async sRe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1189:30408)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:31273
+    at async CZe.doOpenCodeEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1752:37640)
+    at async CZe.openCodeEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1752:26547)
+    at async Ket.open (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1863:636)
+    at async LMe.open (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1863:1936)
+2026-04-23 16:38:21.131 [error] Unable to resolve resource resource:/org/gnome/theme/gtk-dark.css: Error: Unable to resolve resource resource:/org/gnome/theme/gtk-dark.css
+    at _Ze.doCreateReferencedObject (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1771:28301)
+    at _Ze.doCreateReferencedObject (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1771:28264)
+    at async KSe.acquire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:403:3866)
+    at async DZe.createModelReference (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1771:30166)
+    at async ZC.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:973:19092)
+    at async H3.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1184:95904)
+    at async sRe.doSetInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1189:33674)
+    at async sRe.doOpenEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1189:31460)
+    at async sRe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1189:30408)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:31273
+    at async CZe.doOpenCodeEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1752:37640)
+    at async CZe.openCodeEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1752:26547)
+    at async Ket.open (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1863:636)
+    at async LMe.open (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1863:1936)
+2026-04-23 16:41:22.683 [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: Unable to write file '/usr/share/themes/WhiteSur-Dark/gtk-2.0/gtkrc' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/usr/share/themes/WhiteSur-Dark/gtk-2.0/gtkrc') file:///usr/share/themes/WhiteSur-Dark/gtk-2.0/gtkrc
+2026-04-23 16:41:34.061 [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: Unable to write file '/usr/share/themes/WhiteSur-Dark/gtk-2.0/gtkrc' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/usr/share/themes/WhiteSur-Dark/gtk-2.0/gtkrc') file:///usr/share/themes/WhiteSur-Dark/gtk-2.0/gtkrc

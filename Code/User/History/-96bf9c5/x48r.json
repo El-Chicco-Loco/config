@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.menuBarVisibility": "compact",
+    "workbench.statusBar.visible": false,
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "WhiteSur Dark"
+}

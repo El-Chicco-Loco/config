@@ -1,0 +1,5 @@
+.view:not(.source-list),
+iconview,
+.content-view {
+    color: black;
+}   

@@ -1,0 +1,36 @@
+2026-04-23 16:18:04.048 [info] Getting Manifest... ericmacedo.whitesur
+2026-04-23 16:18:04.212 [info] Installing extension: ericmacedo.whitesur {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alienware/.vscode/extensions/extensions.json","path":"/home/alienware/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.115.0","date":"2026-04-07T22:04:57Z"}}
+2026-04-23 16:18:06.594 [info] Extension signature verification result for ericmacedo.whitesur: Success. Internal Code: 0. Executed: true. Duration: 985ms.
+2026-04-23 16:18:06.612 [info] Extracted extension to file:///home/alienware/.vscode/extensions/ericmacedo.whitesur-0.0.1: ericmacedo.whitesur
+2026-04-23 16:18:06.617 [info] Renamed to /home/alienware/.vscode/extensions/ericmacedo.whitesur-0.0.1
+2026-04-23 16:18:06.634 [info] Extension installed successfully: ericmacedo.whitesur vscode-userdata:/home/alienware/.vscode/extensions/extensions.json
+2026-04-23 16:20:30.204 [info] Getting Manifest... cyriacduchatenet.big-sur-theme-dark
+2026-04-23 16:20:30.310 [info] Installing extension: cyriacduchatenet.big-sur-theme-dark {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alienware/.vscode/extensions/extensions.json","path":"/home/alienware/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.115.0","date":"2026-04-07T22:04:57Z"}}
+2026-04-23 16:20:31.975 [info] Extension signature verification result for cyriacduchatenet.big-sur-theme-dark: Success. Internal Code: 0. Executed: true. Duration: 648ms.
+2026-04-23 16:20:31.982 [info] Extracted extension to file:///home/alienware/.vscode/extensions/cyriacduchatenet.big-sur-theme-dark-1.1.0: cyriacduchatenet.big-sur-theme-dark
+2026-04-23 16:20:31.985 [info] Renamed to /home/alienware/.vscode/extensions/cyriacduchatenet.big-sur-theme-dark-1.1.0
+2026-04-23 16:20:31.996 [info] Extension installed successfully: cyriacduchatenet.big-sur-theme-dark vscode-userdata:/home/alienware/.vscode/extensions/extensions.json
+2026-04-23 16:20:57.032 [info] Getting Manifest... zeriax.bigsurgtk-blue
+2026-04-23 16:20:57.134 [info] Installing extension: zeriax.bigsurgtk-blue {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alienware/.vscode/extensions/extensions.json","path":"/home/alienware/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.115.0","date":"2026-04-07T22:04:57Z"}}
+2026-04-23 16:20:58.890 [info] Extension signature verification result for zeriax.bigsurgtk-blue: Success. Internal Code: 0. Executed: true. Duration: 425ms.
+2026-04-23 16:20:58.896 [info] Extracted extension to file:///home/alienware/.vscode/extensions/zeriax.bigsurgtk-blue-0.0.2: zeriax.bigsurgtk-blue
+2026-04-23 16:20:58.899 [info] Renamed to /home/alienware/.vscode/extensions/zeriax.bigsurgtk-blue-0.0.2
+2026-04-23 16:20:58.905 [info] Extension installed successfully: zeriax.bigsurgtk-blue vscode-userdata:/home/alienware/.vscode/extensions/extensions.json
+2026-04-23 16:21:06.940 [info] Getting Manifest... cubeworks.cube-themes
+2026-04-23 16:21:07.042 [info] Installing extension: cubeworks.cube-themes {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alienware/.vscode/extensions/extensions.json","path":"/home/alienware/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.115.0","date":"2026-04-07T22:04:57Z"}}
+2026-04-23 16:21:08.862 [info] Extension signature verification result for cubeworks.cube-themes: Success. Internal Code: 0. Executed: true. Duration: 465ms.
+2026-04-23 16:21:08.869 [info] Extracted extension to file:///home/alienware/.vscode/extensions/cubeworks.cube-themes-1.0.0: cubeworks.cube-themes
+2026-04-23 16:21:08.872 [info] Renamed to /home/alienware/.vscode/extensions/cubeworks.cube-themes-1.0.0
+2026-04-23 16:21:08.886 [info] Extension installed successfully: cubeworks.cube-themes vscode-userdata:/home/alienware/.vscode/extensions/extensions.json
+2026-04-23 16:22:38.165 [info] Uninstalling extension from the profile: zeriax.bigsurgtk-blue@0.0.2 vscode-userdata:/home/alienware/.vscode/extensions/extensions.json
+2026-04-23 16:22:38.197 [info] Marked extension as removed zeriax.bigsurgtk-blue-0.0.2
+2026-04-23 16:22:38.430 [info] Successfully uninstalled extension from the profile zeriax.bigsurgtk-blue@0.0.2 vscode-userdata:/home/alienware/.vscode/extensions/extensions.json
+2026-04-23 16:22:44.796 [info] Uninstalling extension from the profile: cubeworks.cube-themes@1.0.0 vscode-userdata:/home/alienware/.vscode/extensions/extensions.json
+2026-04-23 16:22:44.813 [info] Marked extension as removed cubeworks.cube-themes-1.0.0
+2026-04-23 16:22:45.002 [info] Successfully uninstalled extension from the profile cubeworks.cube-themes@1.0.0 vscode-userdata:/home/alienware/.vscode/extensions/extensions.json
+2026-04-23 16:23:19.990 [info] Uninstalling extension from the profile: cyriacduchatenet.big-sur-theme-dark@1.1.0 vscode-userdata:/home/alienware/.vscode/extensions/extensions.json
+2026-04-23 16:23:20.006 [info] Marked extension as removed cyriacduchatenet.big-sur-theme-dark-1.1.0
+2026-04-23 16:23:20.279 [info] Successfully uninstalled extension from the profile cyriacduchatenet.big-sur-theme-dark@1.1.0 vscode-userdata:/home/alienware/.vscode/extensions/extensions.json
+2026-04-23 16:23:55.948 [info] Uninstalling extension from the profile: ericmacedo.whitesur@0.0.1 vscode-userdata:/home/alienware/.vscode/extensions/extensions.json
+2026-04-23 16:23:55.967 [info] Marked extension as removed ericmacedo.whitesur-0.0.1
+2026-04-23 16:23:56.214 [info] Successfully uninstalled extension from the profile ericmacedo.whitesur@0.0.1 vscode-userdata:/home/alienware/.vscode/extensions/extensions.json
